@@ -22,7 +22,7 @@ I followed [this][problem-2] instruction to solve this problem, the command you 
 
 Then I went through the remaining processes and see my page on web, but it is mess! The same problem as [this post][problem-3]. I followed the answer to modify the `baseurl` and `url` in file `_config.yml` 
 
-![config](Images/config.png)
+![config](config.png)
 
 Finally I got it! So you can see this blog. Woohoo!
 
