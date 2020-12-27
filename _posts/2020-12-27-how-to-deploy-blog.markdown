@@ -27,6 +27,7 @@ baseurl: "/PengBlog" # the subpath of your site, e.g. /blog
 url: "https://pzhao28.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 ```
 
+But right now, I still cannot insert image, which would be a remaining problem needed to be solved.
 ![config](config.png)
 
 Finally I got it! So you can see this blog. Woohoo!
