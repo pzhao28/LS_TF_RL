@@ -20,7 +20,12 @@ When I run `bundle exec jekyll serve`, I got this
 
 I followed [this][problem-2] instruction to solve this problem, the command you have to run is `bundle add webrick`. 
 
-Then I went through the remaining processes and see my page on web, but it is mess! The same problem as [this post][problem-3]. I followed the answer to modify the `baseurl` and `url` in file `_config.yml` 
+Then I went through the remaining processes and see my page on web, but it is mess! The same problem as [this post][problem-3]. I followed the answer to modify the `baseurl` and `url` in file `_config.yml`:
+
+```
+baseurl: "/PengBlog" # the subpath of your site, e.g. /blog
+url: "https://pzhao28.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+```
 
 ![config](config.png)
 
