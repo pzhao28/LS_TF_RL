@@ -16,7 +16,9 @@ In order to solve this problem, you need to install `xcode`, but the command `xc
 
 When I run `bundle exec jekyll serve`, I got this 
 
-```/home/argilo/.gem/ruby/3.0.0/gems/jekyll-4.2.0/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)```
+```
+/home/argilo/.gem/ruby/3.0.0/gems/jekyll-4.2.0/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)
+```
 
 I followed [this][problem-2] instruction to solve this problem, the command you have to run is `bundle add webrick`. 
 
