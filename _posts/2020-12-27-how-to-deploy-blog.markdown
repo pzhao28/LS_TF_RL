@@ -30,7 +30,8 @@ url: "https://pzhao28.github.io" # the base hostname & protocol for your site, e
 ```
 
 But right now, I still cannot insert image, which would be a remaining problem needed to be solved.
-![config](config.png)
+![image](https://user-images.githubusercontent.com/41249426/103261509-118b6180-495f-11eb-88eb-779227a86782.png)
+
 
 Finally I got it! So you can see this blog. Woohoo!
 
