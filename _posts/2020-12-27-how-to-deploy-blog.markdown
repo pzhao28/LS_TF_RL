@@ -37,6 +37,9 @@ Follow [this][insert-image]
 ![image](https://user-images.githubusercontent.com/41249426/103261509-118b6180-495f-11eb-88eb-779227a86782.png)
 
 
+![image]({{ './images/config.png' | relative_url }}){: style="width: 600px; max-width: 100%;"}
+
+
 Finally I got it! So you can see this blog. Woohoo!
 
 
